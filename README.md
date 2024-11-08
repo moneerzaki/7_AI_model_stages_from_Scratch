@@ -1,4 +1,4 @@
-# 7_AI_model_stages_from_Scratch
+![image](https://github.com/user-attachments/assets/34e0217d-4972-4ef8-a25b-582b6240854f)# 7_AI_model_stages_from_Scratch
 7 stages to create your own AI model to solve any kind of problems: Regression, classification, and anomanly detection
 
 ### project 1: Data Manipulation and Visulaization 
@@ -41,15 +41,99 @@ Calculate and interpret summary statistics. Create visualizations to explore rel
 ### project 4: Supervised Learning (Regression)
 Train a linear regression model and evaluate its performance using metrics like RMSE, MAE, and R^2. Experiment with other regression algorithms (Ridge, Lasso, Decision Tree Regressor). Perform hyperparameter tuning to improve model performance.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d8f50f3-498c-41b6-8443-d2a17cb9ae40" width="400">
+  <p><em>Figure : </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a4fdeaef-a2b2-436a-9061-469e9064c9f0" width="400">
+  <p><em>Figure : </em></p>
+</div>
+
+
+<!-- ![image](https://github.com/user-attachments/assets/3d8f50f3-498c-41b6-8443-d2a17cb9ae40)
+![image](https://github.com/user-attachments/assets/a4fdeaef-a2b2-436a-9061-469e9064c9f0) -->
+
+
+
 ### project 5: Supervised Learning (Classification)
 Train a logistic regression model and evaluate its performance using metrics like accuracy, precision, recall, and F1-score. Experiment with other classification algorithms (Random Forest, SVM, KNN). Perform hyperparameter tuning to improve model performance.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc54fd8b-4393-4d9c-aaeb-7a52bbfe8c69" width="400">
+  <p><em>Figure : Logistic Regression </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eb64708f-1cef-4f77-89ab-ca1e6fb22b2e" width="400">
+  <p><em>Figure : Random Forest </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8ca327ce-44eb-4aea-af76-9a2fc6645033" width="400">
+  <p><em>Figure : Random Forest </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7ec3609e-a442-4b53-b474-fc667d3d06e7" width="400">
+  <p><em>Figure : Random Forest </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fd8c97f3-b46d-4144-9e46-a9371d9f5154" width="400">
+  <p><em>Figure : SVM </em></p>
+</div>
 
 
 ### project 6: Unsupervised Learning (Clustering)
 Preprocess the dataset (normalize features if necessary). Implement K-means clustering and determine the optimal number of clusters using the elbow method. Visualize clusters and interpret the results. Experiment with hierarchical clustering and compare results.
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/55a555e2-7aef-438c-ad29-aea3b9318870" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dfdf9b8a-a9d1-4b64-9389-7c6ce11b5d8a" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d853090-77fb-4ad3-928d-0dec07009fbf" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/84879e99-5828-4197-8c1f-3cd49a249db2" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f114353f-6a75-4758-a219-5065bbcca200" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/77a92392-62f6-48e9-9246-4a9042c5066a" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/33fae14b-1652-4b5c-913f-e4a52448aa62" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
+
+
 ### project 7: Deep Learning (Neural Network)
 Preprocess the dataset (normalize pixel values, one-hot encode labels). Build a neural network using TensorFlow/Keras. Train the network and evaluate its performance on the test set. Experiment with different network architectures and hyperparameters.
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/605d7470-ddf8-4951-abf6-234f96a7ab64" width="400">
+  <p><em>Figure : Elbow method </em></p>
+</div>
 
 
