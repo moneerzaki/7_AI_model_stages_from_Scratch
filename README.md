@@ -60,25 +60,29 @@ Train a linear regression model and evaluate its performance using metrics like 
 ### project 5: Supervised Learning (Classification)
 Train a logistic regression model and evaluate its performance using metrics like accuracy, precision, recall, and F1-score. Experiment with other classification algorithms (Random Forest, SVM, KNN). Perform hyperparameter tuning to improve model performance.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cc54fd8b-4393-4d9c-aaeb-7a52bbfe8c69" width="400">
-  <p><em>Figure : Logistic Regression </em></p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cc54fd8b-4393-4d9c-aaeb-7a52bbfe8c69" width="300">
+      <p><em>Figure: Logistic Regression</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/eb64708f-1cef-4f77-89ab-ca1e6fb22b2e" width="300">
+      <p><em>Figure: Random Forest</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8ca327ce-44eb-4aea-af76-9a2fc6645033" width="300">
+      <p><em>Figure: SVM</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7ec3609e-a442-4b53-b474-fc667d3d06e7" width="300">
+      <p><em>Figure: KNN</em></p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/eb64708f-1cef-4f77-89ab-ca1e6fb22b2e" width="400">
-  <p><em>Figure : Random Forest </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8ca327ce-44eb-4aea-af76-9a2fc6645033" width="400">
-  <p><em>Figure : SVM </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7ec3609e-a442-4b53-b474-fc667d3d06e7" width="400">
-  <p><em>Figure : KNN </em></p>
-</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fd8c97f3-b46d-4144-9e46-a9371d9f5154" width="400">
@@ -89,42 +93,42 @@ Train a logistic regression model and evaluate its performance using metrics lik
 ### project 6: Unsupervised Learning (Clustering)
 Preprocess the dataset (normalize features if necessary). Implement K-means clustering and determine the optimal number of clusters using the elbow method. Visualize clusters and interpret the results. Experiment with hierarchical clustering and compare results.
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/55a555e2-7aef-438c-ad29-aea3b9318870" width="400">
-  <p><em>Figure : Elbow method </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/dfdf9b8a-a9d1-4b64-9389-7c6ce11b5d8a" width="400">
-  <p><em>Figure : k-means clustering visualized 3d </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0d853090-77fb-4ad3-928d-0dec07009fbf" width="400">
-  <p><em>Figure : k-means clustering visualized 2d </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/84879e99-5828-4197-8c1f-3cd49a249db2" width="400">
-  <p><em>Figure : k-means clustering visualized 3d </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f114353f-6a75-4758-a219-5065bbcca200" width="400">
-  <p><em>Figure : Hierarchical clustering Dendrogram  </em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/77a92392-62f6-48e9-9246-4a9042c5066a" width="400">
-  <p><em>Figure : k-Means++ Clustering  </em></p>
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/33fae14b-1652-4b5c-913f-e4a52448aa62" width="400">
-  <p><em>Figure : Number of clusters metric </em></p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/55a555e2-7aef-438c-ad29-aea3b9318870" width="300">
+      <p><em>Figure: Elbow Method</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dfdf9b8a-a9d1-4b64-9389-7c6ce11b5d8a" width="300">
+      <p><em>Figure: K-Means Clustering (3D)</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0d853090-77fb-4ad3-928d-0dec07009fbf" width="300">
+      <p><em>Figure: K-Means Clustering (2D)</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/84879e99-5828-4197-8c1f-3cd49a249db2" width="300">
+      <p><em>Figure: K-Means Clustering (3D)</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f114353f-6a75-4758-a219-5065bbcca200" width="300">
+      <p><em>Figure: Hierarchical Clustering Dendrogram</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/77a92392-62f6-48e9-9246-4a9042c5066a" width="300">
+      <p><em>Figure: K-Means++ Clustering</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://github.com/user-attachments/assets/33fae14b-1652-4b5c-913f-e4a52448aa62" width="400">
+      <p><em>Figure: Number of Clusters Metric</em></p>
+    </td>
+  </tr>
+</table>
 
 
 ### project 7: Deep Learning (Neural Network)
@@ -133,6 +137,12 @@ Preprocess the dataset (normalize pixel values, one-hot encode labels). Build a 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/605d7470-ddf8-4951-abf6-234f96a7ab64" width="400">
+  <p><em>Figure : WandB visutlaization for hyperparameter tuning </em></p>
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a829976d-729e-47fa-8207-bb9412b2a09b" width="400">
   <p><em>Figure : WandB visutlaization for hyperparameter tuning </em></p>
 </div>
 
