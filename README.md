@@ -3,21 +3,39 @@
 
 ### project 1: Data Manipulation and Visulaization 
 Perform basic data manipulation: filtering, sorting, grouping, and aggregating. Create visualizations using matplotlib and seaborn to understand data distributions and relationships.
-![image](https://github.com/user-attachments/assets/b2e4325a-f6ee-4324-aace-9c35746075ec)
-![image](https://github.com/user-attachments/assets/0ebc271e-d878-4738-8565-34c1fb7a40d9)
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b2e4325a-f6ee-4324-aace-9c35746075ec" width="400">
+  <p><em>Figure 1: </em></p>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ebc271e-d878-4738-8565-34c1fb7a40d9" width="600">
+  <p><em>Figure 2: </em></p>
+</div>
+
+
 
 
 ### project 2: Data Preprocessing
 Handle missing values using various techniques (mean/mode imputation, forward fill, etc.). Encode categorical variables (one-hot encoding, label encoding). Normalize/standardize numerical features. Identify and remove outliers if necessary
 
-![image](https://github.com/user-attachments/assets/f26abf8a-5956-4ba8-8d9c-3a4f9a521845)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f26abf8a-5956-4ba8-8d9c-3a4f9a521845" width="400">
+  <p><em>Figure : </em></p>
+</div>
 
 ### project 3: Exploratory Data Analysis
 Calculate and interpret summary statistics. Create visualizations to explore relationships between variables (scatter plots, box plots, histograms, heatmaps).Identify and analyze key patterns and insights from the data.
 
-![image](https://github.com/user-attachments/assets/1ba58ea9-93a6-429c-8008-bdb5e30f96af)
-![image](https://github.com/user-attachments/assets/e544db5d-8cf3-4b8a-9f76-67959d1cfb8a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ba58ea9-93a6-429c-8008-bdb5e30f96af" width="400">
+  <p><em>Figure : </em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e544db5d-8cf3-4b8a-9f76-67959d1cfb8a" width="400">
+  <p><em>Figure : </em></p>
+</div>
 
 
 ### project 4: Supervised Learning (Regression)
